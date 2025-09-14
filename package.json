@@ -1,0 +1,16 @@
+{
+  "name": "@anant10/resume",
+  "version": "1.0.1",
+  "description": "Resume of Anant Sharma as an npm CLI package",
+  "main": "index.js",
+  "bin": {
+    "resume": "./index.js"
+  },
+  "keywords": ["resume", "cli", "anant-sharma", "npm"],
+  "author": "Anant Sharma",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
